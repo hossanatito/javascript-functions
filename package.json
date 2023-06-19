@@ -1,0 +1,20 @@
+{
+  "name": "functions-test",
+  "version": "1.0.0",
+  "description": "JavaScript Functions & Test Cases",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "functions",
+    "testing",
+    "unit-testing"
+  ],
+  "author": "Hossana Tito",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.3.7",
+    "mocha": "^10.2.0"
+  }
+}
